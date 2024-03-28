@@ -1,7 +1,7 @@
 # 2PL-MDNRM
 
-This repository includes source code of our paper. 
-___Optimizing Statistical Evaluation of Multiclass Classification in Diagnostic Radiology: A Study of the Two-Parameter Multidimensional Nominal Response Model___
+This repository includes source code of our paper: 
+___Optimizing Statistical Evaluation of Multiclass Classification in Diagnostic Radiology: A Study of the Two-Parameter Multidimensional Nominal Response Model___.
 
 In the source code, several types of MDNRM including 2PL-MDNRM are implemented with numpyro.
 
