@@ -5,6 +5,15 @@ ___Optimizing Statistical Evaluation of Multiclass Classification in Diagnostic 
 
 In the source code, several types of MDNRM including 2PL-MDNRM are implemented with numpyro.
 
+# Paper
+If the source code of this repository is used, please cite the following paper.
+
+## Published paper
+Our published paper will be available soon. 
+
+* DOI: 
+* URL: 
+
 
 # Requirement
 The source code is described as ipynb (notebook) file. 
