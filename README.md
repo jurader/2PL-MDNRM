@@ -8,13 +8,13 @@ In the source code, several types of MDNRM including 2PL-MDNRM are implemented w
 # Paper
 If the source code of this repository is used, please cite the following paper.
 
-* Nishio M, Ota E. 2024. Optimizing statistical evaluation of multiclass classiﬁcation in diagnostic radiology: a study of the two-parameter multidimensional nominal response model. PeerJ Comput. Sci. 10:e2380 DOI 10.7717/peerj-cs.2380
+* Nishio M, Ota E. 2024. Optimizing statistical evaluation of multiclass classiﬁcation in diagnostic radiology: a study of the two-parameter multidimensional nominal response model. PeerJ Comput. Sci. 10:e2380
 
 ## Published paper
-Our published paper will be available soon. 
+Our published paper is available from the following URLs. 
 
-* DOI: 10.7717/peerj-cs.2380
-* URL: 
+* DOI: [10.7717/peerj-cs.2380](https://doi.org/10.7717/peerj-cs.2380)
+* URL: https://peerj.com/articles/cs-2380/
 
 
 # Requirement
